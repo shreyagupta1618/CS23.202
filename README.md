@@ -1,8 +1,8 @@
-[Program-1 WAP to add three distances ](#assignment-1) 
+[Program-1 WAC to add three distances ](#assignment-1) 
 
-[Program-2 WAP to add three diffrent timing](#assignment-2) 
+[Program-2 WAC to add three diffrent timing](#assignment-2) 
 
-[Program-3 WAP inheritence](#assignment-3) 
+[Program-3 WAC inheritence](#assignment-3) 
 
 
 ## assignment-1
