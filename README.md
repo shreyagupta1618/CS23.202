@@ -2,7 +2,7 @@
 
 [Program-2 WAP to add three diffrent timing](#assignment-2) 
 
-[Program-3 WAP of inheritence](#assignment-3) 
+[Program-3 WAP inheritence](#assignment-3) 
 
 
 ## assignment-1
