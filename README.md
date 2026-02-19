@@ -2,6 +2,9 @@
 
 [Program-2 WAP to add three diffrent timing](#assignment-2) 
 
+[Program-3 WAP of inheritence](#assignment-3) 
+
+
 ## assignment-1
 ```
 import java.util.Scanner;
@@ -140,3 +143,43 @@ class time{
 ```
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/24ec6e6d-4a87-427e-abc6-c3f9d18d609a" />
 
+## assignment-3
+```
+public class inheritance {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        testA a=new testA();
+        testB b=new testB();
+        testC c=new testC();
+        a.fun1();
+        b.fun2();
+        c.fun3();
+        
+        
+    
+    }
+    
+}
+
+class testA{
+    public void fun1(){
+        System.out.println("We are in class testA");
+    }
+}
+
+class testB extends testA{    
+    public void fun2(){
+        System.out.println("We are in class testB");
+    }
+}
+
+class testC extends testB{
+     public void fun3(){
+        System.out.println("We are in class testC");
+    }
+}
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6ba792f-dc85-4d06-99c6-35cb0f7373cc" />
