@@ -202,7 +202,7 @@ class testC extends testB{
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6ba792f-dc85-4d06-99c6-35cb0f7373cc" />
 
 
-##assignment-4
+## assignment-4
 ```
 import java.util.Scanner;
 
@@ -242,7 +242,7 @@ public class Calculator {
 }   
 ```
 
-##assignment-5
+## assignment-5
 ```
 /**
  *
@@ -290,7 +290,7 @@ class Tt{
 <img width="578" height="487" alt="image" src="https://github.com/user-attachments/assets/8cadc746-890a-4eb2-970f-8ae99b089335" />
 
 
-##assignment-6
+## assignment-6
 ```
 import java.util.Scanner;
 /**
